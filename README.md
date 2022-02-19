@@ -14,25 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 打字特效 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://6ing.xyz/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);星辰祝你生活愉快！!&center=true&size=27">
+  </a>
+</h1>
 
+<!-- 信息统计 -->
+[![星辰's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjcfxD)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 使用语言统计 -->
 <div align="center">
-    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjcfx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <!-- GitHub资料奖杯 -->
 <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=mjcfx&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
+
+<!-- github徽章 -->
+<span >
+	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+</span>
+
+<!-- github访客统计 -->
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=mjcfx" />
+</div>
+
+<!-- 社交统计 -->
+<div align="center">
+    <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=dark">
 </div>
 
 <!-- GitHub 活动统计图 -->
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=mjcfx&theme=react-dark" />
 </div>
 
 <!-- GitHub 连续打卡 -->
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mjcfx" />
 </div>
