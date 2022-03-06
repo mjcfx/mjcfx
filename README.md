@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 	<img src="https://cdn.jsdelivr.net/gh/mjcfx/mjcfx/assets/github-contribution-grid-snake.svg" />
 </div>
 
-![](https://raw.githubusercontent.com/mjcfx/mjcfx/main/assets/github-contribution-grid-snake.svg)
-
 <!-- GitHub资料奖杯 -->
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=mjcfx&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
