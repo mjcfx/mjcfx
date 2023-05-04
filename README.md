@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <a href="https://6ing.xyz/">
+  <a href="https://desk.6ing.top/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);星辰祝你生活愉快！!&center=true&size=27">
   </a>
 </h1>
 
 <div align="center">
-    <img src=https://metrics.lecoq.io/mjcfx?template=classic&config.timezone=Asia%2FShanghai>
+<!--     <img src=https://metrics.lecoq.io/mjcfx?template=classic&config.timezone=Asia%2FShanghai> -->
     <!-- 使用语言统计 -->
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjcfx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
