@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 
 <!-- GitHub 活动统计图 -->
-<div align="center">
+<!-- <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=mjcfx&theme=react-dark" />
-</div>
+</div> -->
 
 
